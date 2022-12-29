@@ -1,0 +1,65 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ASTRO ARENA 1" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Astro_Arena_Logo_2.jpg/revision/latest/scale-to-width-down/250?cb=20190123083011",ASTRO ARENA 1
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfQ7VBdtWD0jP5z-XDLImrJQ
+
+#EXTINF:-1 tvg-id="ASTRO AWANI" group-title="PAE"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest/scale-to-width-down/300?cb=20200922172412",ASTRO AWANI
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfY6_aWSaxyavHSR5cz1Z2IQ
+
+#EXTINF:-1 tvg-id="ASTRO CERIA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Astro_Ceria_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092308",ASTRO CERIA
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXTWhHdDBVy_pga0PmHdI1Q
+
+#EXTINF:-1 tvg-id="ASTRO CITRA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Citra_HD.png/revision/latest/scale-to-width-down/200?cb=20201215114828",ASTRO CITRA
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXj9ZAd-CdNseIxRw6JnzHM
+
+#EXTINF:-1 tvg-id="ASTRO OASIS" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Astro_Oasis_HD.png/revision/latest/scale-to-width-down/200?cb=20201202120819",ASTRO OASIS
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfVTNhMdGOCWgSdHkrMLDr-g
+
+#EXTINF:-1 tvg-id="ASTRO PRIMA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Astro_Prima_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092334",ASTRO PRIMA
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfamVE3LS2Ah9lV-sOKw44w0
+
+#EXTINF:-1 tvg-id="ASTRO RIA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Astro_Ria_HD.png/revision/latest/scale-to-width-down/200?cb=20200929180948",ASTRO RIA
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfdae4EYOnqwfnjAxO2jZHCo
+
+#EXTINF:-1 tvg-id="ASTRO WARNA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Astro_Warna_HD.png/revision/latest/scale-to-width-down/200?cb=20200930161625",ASTRO WARNA
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfUY3gwZFW_BwUcBNErY4jyI
+
+#EXTINF:-1 tvg-id="AWESOME TV"
+tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfRNscykwJgjsiSiBHUjhYwo
+
+#EXTINF:-1 tvg-id="AWESOME TV [B]" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV [B]
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfW9hqQcTwGJzAGNzx2R2zgs
+
+#EXTINF:-1 tvg-id="BERNAMA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/BernamaTV2019.png/revision/latest/scale-to-width-down/200?cb=20210923080737",BERNAMA
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfRoJBAUkiwaIQ5nIrMb4GC4
+
+#EXTINF:-1 tvg-id="DIDIKTV" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest/scale-to-width-down/250?cb=20210529054804",DIDIKTV
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXY8buJP8MPiPYLXViW4X88
+
+#EXTINF:-1 tvg-id="OKEY" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Okey_RTM.png/revision/latest?cb=20210406041615",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
+
+#EXTINF:-1 tvg-id="RTM SUKAN" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",RTM SUKAN
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
+
+#EXTINF:-1 tvg-id="TV1" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest/scale-to-width-down/220?cb=20200525153311",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+
+#EXTINF:-1 tvg-id="TV2" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20220121144523",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+
+#EXTINF:-1 tvg-id="TV3" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/TV3_%28Malaysia%29.svg/revision/latest/scale-to-width-down/250?cb=2022030211",TV3
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfbqaLfVnbqeCVHdMziVQI70
+
+#EXTINF:-1 tvg-id="TV6" group-title="PAE" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfdL2wJqXPKAzaJVyiiiuHFk
+
+#EXTINF:-1 tvg-id="TV8" group-title="PAE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",TV8
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfUwT8r0LyjGmSsZwsXMLpuc
+
+#EXTINF:-1 tvg-id="TV9" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/TV9_2021.png/revision/latest/scale-to-width-down/200?cb=20210911031959",TV9
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfaIoyk30RM2mMiCiYMFCIVI
+
+#EXTINF:-1 tvg-id="TVS" group-title="PAE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/220px-TVS_Sarawak.jpg",TVS
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXVT3wtvyUcq9rIpyvavQY4
