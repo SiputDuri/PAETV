@@ -49,8 +49,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=
 #EXTINF:-1 tvg-id="TV2" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20220121144523",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 tvg-id="TV3" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/TV3_%28Malaysia%29.svg/revision/latest/scale-to-width-down/250?cb=2022030211",TV3
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfbqaLfVnbqeCVHdMziVQI70
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="MALAYSIA TV",TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-id="TV6" group-title="PAE" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfdL2wJqXPKAzaJVyiiiuHFk
@@ -63,3 +65,8 @@ https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfaIoyk30RM2mMiCiYMFCIVI
 
 #EXTINF:-1 tvg-id="TVS" group-title="PAE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/220px-TVS_Sarawak.jpg",TVS
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXVT3wtvyUcq9rIpyvavQY4
+
+#EXTINF:0 tvg-logo="https://cdn.ksa.my.id/babytv.png" group-title="PAE" tvg-id="011" tvg-name="011-BABY-TV", BABY TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
