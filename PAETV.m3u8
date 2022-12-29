@@ -49,7 +49,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=
 #EXTINF:-1 tvg-id="TV2" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20220121144523",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="MALAYSIA TV",TV3
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="PAE",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
