@@ -67,7 +67,8 @@ https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfdL2wJqXPKAzaJVyiiiuHFk
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfUwT8r0LyjGmSsZwsXMLpuc
 
 #EXTINF:-1 tvg-id="TV9" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/TV9_2021.png/revision/latest/scale-to-width-down/200?cb=20210911031959",TV9
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfaIoyk30RM2mMiCiYMFCIVI
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+# https://aqfadtv.astradamy.com/stream/TV9.php
 
 #EXTINF:-1 tvg-id="TVS" group-title="PAE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/220px-TVS_Sarawak.jpg",TVS
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXVT3wtvyUcq9rIpyvavQY4
