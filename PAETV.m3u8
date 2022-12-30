@@ -36,8 +36,12 @@ https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfRNscykwJgjsiSiBHUjhYwo
 #EXTINF:-1 tvg-id="AWESOME TV [B]" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV [B]
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfW9hqQcTwGJzAGNzx2R2zgs
 
-#EXTINF:-1 tvg-id="BERNAMA" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/BernamaTV2019.png/revision/latest/scale-to-width-down/200?cb=20210923080737",BERNAMA
+-------------------------------------BERITA--------------------------------------------------------
+#EXTINF:-1 tvg-id="BERNAMA" group-title="BERITA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/BernamaTV2019.png/revision/latest/scale-to-width-down/200?cb=20210923080737",BERNAMA
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfRoJBAUkiwaIQ5nIrMb4GC4
+
+#EXTINF:-1 tvg-id="ASTRO AWANI" group-title="AXTRO"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest/scale-to-width-down/300?cb=20200922172412",ASTRO AWANI
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfY6_aWSaxyavHSR5cz1Z2IQ
 
 -------------------------------------AXTRO--------------------------------------------------------
 
