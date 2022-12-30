@@ -66,11 +66,13 @@ https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXj9ZAd-CdNseIxRw6JnzHM
 #EXTINF:-1 tvg-id="ASTRO OASIS" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Astro_Oasis_HD.png/revision/latest/scale-to-width-down/200?cb=20201202120819",ASTRO OASIS
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfVTNhMdGOCWgSdHkrMLDr-g
 
-#EXTINF:-1 tvg-id="ASTRO CITRA" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Citra_HD.png/revision/latest/scale-to-width-down/200?cb=20201215114828",ASTRO CITRA
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXj9ZAd-CdNseIxRw6JnzHM
-
 #EXTINF:-1 tvg-id="ASTRO AWANI" group-title="AXTRO"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest/scale-to-width-down/300?cb=20200922172412",ASTRO AWANI
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfY6_aWSaxyavHSR5cz1Z2IQ
+
+#EXTINF:-1 tvg-id="ASTRO CERIA" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Astro_Ceria_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092308",ASTRO CERIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/e6a6ab2a-f977-456c-a20b-17e236f5901e
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 -------------------------------------BUDAK--------------------------------------------------------
 
