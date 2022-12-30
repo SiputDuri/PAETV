@@ -7,7 +7,9 @@ https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfQ7VBdtWD0jP5z-XDLImrJQ
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfY6_aWSaxyavHSR5cz1Z2IQ
 
 #EXTINF:-1 tvg-id="ASTRO CERIA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Astro_Ceria_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092308",ASTRO CERIA
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXTWhHdDBVy_pga0PmHdI1Q
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/e6a6ab2a-f977-456c-a20b-17e236f5901e
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ASTRO CITRA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Citra_HD.png/revision/latest/scale-to-width-down/200?cb=20201215114828",ASTRO CITRA
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXj9ZAd-CdNseIxRw6JnzHM
@@ -16,7 +18,9 @@ https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXj9ZAd-CdNseIxRw6JnzHM
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfVTNhMdGOCWgSdHkrMLDr-g
 
 #EXTINF:-1 tvg-id="ASTRO PRIMA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Astro_Prima_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092334",ASTRO PRIMA
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfamVE3LS2Ah9lV-sOKw44w0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/c76fd510-acd4-4235-a7ba-3bcfea3bbb1b
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ASTRO RIA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Astro_Ria_HD.png/revision/latest/scale-to-width-down/200?cb=20200929180948",ASTRO RIA
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfdae4EYOnqwfnjAxO2jZHCo
