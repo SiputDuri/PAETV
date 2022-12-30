@@ -38,9 +38,7 @@ https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfW9hqQcTwGJzAGNzx2R2zgs
 
 -------------------------------------BERITA--------------------------------------------------------
 #EXTINF:-1 tvg-id="BERNAMA" group-title="BERITA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/BernamaTV2019.png/revision/latest/scale-to-width-down/200?cb=20210923080737",BERNAMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=aa3ffd5b0ad254ca7b23c85c240f4910&key=c17b80d133522c555b4c10ad6a142750
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO AWANI" group-title="BERITA"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest/scale-to-width-down/300?cb=20200922172412",ASTRO AWANI
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfY6_aWSaxyavHSR5cz1Z2IQ
