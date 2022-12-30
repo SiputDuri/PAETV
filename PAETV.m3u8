@@ -29,6 +29,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id
 #EXTINF:-1 tvg-id="DIDIKTV" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest/scale-to-width-down/250?cb=20210529054804",DIDIKTV
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXY8buJP8MPiPYLXViW4X88
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png" group-title="BASIC",INSPIRASI
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+
 #EXTINF:-1 tvg-id="AWESOME TV" group-title="BASIC"
 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfRNscykwJgjsiSiBHUjhYwo
@@ -79,6 +84,15 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_animax.png" group-title="BUDAK" tvg-id="007" tvg-name="007-ANIMAX", ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cartoonnetwork_hd.png" group-title="BUDAK" tvg-id="021" tvg-name="021-CARTOON-NETWORK-HD", CARTOON NETWORK HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://av-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 -------------------------------------SUKAN--------------------------------------------------------
 
