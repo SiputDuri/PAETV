@@ -1,98 +1,103 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ASTRO ARENA 1" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Astro_Arena_Logo_2.jpg/revision/latest/scale-to-width-down/250?cb=20190123083011",ASTRO ARENA 1
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfQ7VBdtWD0jP5z-XDLImrJQ
+-------------------------------------TV Basic--------------------------------------------------------
 
-#EXTINF:-1 tvg-id="ASTRO AWANI" group-title="PAE"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest/scale-to-width-down/300?cb=20200922172412",ASTRO AWANI
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfY6_aWSaxyavHSR5cz1Z2IQ
-
-#EXTINF:-1 tvg-id="ASTRO CERIA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Astro_Ceria_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092308",ASTRO CERIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/e6a6ab2a-f977-456c-a20b-17e236f5901e
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
-
-#EXTINF:-1 tvg-id="ASTRO CITRA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Citra_HD.png/revision/latest/scale-to-width-down/200?cb=20201215114828",ASTRO CITRA
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXj9ZAd-CdNseIxRw6JnzHM
-
-#EXTINF:-1 tvg-id="ASTRO OASIS" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Astro_Oasis_HD.png/revision/latest/scale-to-width-down/200?cb=20201202120819",ASTRO OASIS
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfVTNhMdGOCWgSdHkrMLDr-g
-
-#EXTINF:-1 tvg-id="ASTRO PRIMA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Astro_Prima_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092334",ASTRO PRIMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/c76fd510-acd4-4235-a7ba-3bcfea3bbb1b
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
-
-#EXTINF:-1 tvg-id="ASTRO RIA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Astro_Ria_HD.png/revision/latest/scale-to-width-down/200?cb=20200929180948",ASTRO RIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-
-#EXTINF:-1 tvg-id="ASTRO WARNA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Astro_Warna_HD.png/revision/latest/scale-to-width-down/200?cb=20200930161625",ASTRO WARNA
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfUY3gwZFW_BwUcBNErY4jyI
-
-#EXTINF:-1 tvg-id="AWESOME TV"
-tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfRNscykwJgjsiSiBHUjhYwo
-
-#EXTINF:-1 tvg-id="AWESOME TV [B]" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV [B]
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfW9hqQcTwGJzAGNzx2R2zgs
-
-#EXTINF:-1 tvg-id="BERNAMA" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/BernamaTV2019.png/revision/latest/scale-to-width-down/200?cb=20210923080737",BERNAMA
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfRoJBAUkiwaIQ5nIrMb4GC4
-
-#EXTINF:-1 tvg-id="DIDIKTV" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest/scale-to-width-down/250?cb=20210529054804",DIDIKTV
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXY8buJP8MPiPYLXViW4X88
-
-#EXTINF:-1 tvg-id="OKEY" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Okey_RTM.png/revision/latest?cb=20210406041615",OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
-
-#EXTINF:-1 tvg-id="RTM SUKAN" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",RTM SUKAN
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
-
-#EXTINF:-1 tvg-id="TV1" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest/scale-to-width-down/220?cb=20200525153311",TV1
+#EXTINF:-1 tvg-id="TV1" group-title="Basic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest/scale-to-width-down/220?cb=20200525153311",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
-#EXTINF:-1 tvg-id="TV2" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20220121144523",TV2
+#EXTINF:-1 tvg-id="TV2" group-title="Basic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20220121144523",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="PAE",TV3
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="Basic",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-id="TV6" group-title="PAE" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
+#EXTINF:-1 tvg-id="TV6" group-title="Basic" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfdL2wJqXPKAzaJVyiiiuHFk
 
-#EXTINF:-1 tvg-id="TV8" group-title="PAE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",TV8
+#EXTINF:-1 tvg-id="TV8" group-title="Basic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",TV8
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfUwT8r0LyjGmSsZwsXMLpuc
 
-#EXTINF:-1 tvg-id="TV9" group-title="PAE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/TV9_2021.png/revision/latest/scale-to-width-down/200?cb=20210911031959",TV9
+#EXTINF:-1 tvg-id="TV9" group-title="Basic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/TV9_2021.png/revision/latest/scale-to-width-down/200?cb=20210911031959",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 # https://aqfadtv.astradamy.com/stream/TV9.php
 
-#EXTINF:-1 tvg-id="TVS" group-title="PAE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/220px-TVS_Sarawak.jpg",TVS
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXVT3wtvyUcq9rIpyvavQY4
+#EXTINF:-1 tvg-id="OKEY" group-title="Basic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Okey_RTM.png/revision/latest?cb=20210406041615",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
-#EXTINF:0 tvg-logo="https://cdn.ksa.my.id/babytv.png" group-title="PAE" tvg-id="011" tvg-name="011-BABY-TV", BABY TV
+#EXTINF:-1 tvg-id="DIDIKTV" group-title="Basic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest/scale-to-width-down/250?cb=20210529054804",DIDIKTV
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXY8buJP8MPiPYLXViW4X88
+
+#EXTINF:-1 tvg-id="AWESOME TV" group-title="Basic"
+tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfRNscykwJgjsiSiBHUjhYwo
+
+#EXTINF:-1 tvg-id="AWESOME TV [B]" group-title="Basic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV [B]
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfW9hqQcTwGJzAGNzx2R2zgs
+
+#EXTINF:-1 tvg-id="BERNAMA" group-title="group-title="Basic"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/BernamaTV2019.png/revision/latest/scale-to-width-down/200?cb=20210923080737",BERNAMA
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfRoJBAUkiwaIQ5nIrMb4GC4
+
+-------------------------------------AXTRO--------------------------------------------------------
+
+#EXTINF:-1 tvg-id="ASTRO RIA" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Astro_Ria_HD.png/revision/latest/scale-to-width-down/200?cb=20200929180948",ASTRO RIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ASTRO PRIMA" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Astro_Prima_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092334",ASTRO PRIMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/c76fd510-acd4-4235-a7ba-3bcfea3bbb1b
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+
+#EXTINF:-1 tvg-id="ASTRO CITRA" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Citra_HD.png/revision/latest/scale-to-width-down/200?cb=20201215114828",ASTRO CITRA
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXj9ZAd-CdNseIxRw6JnzHM
+
+#EXTINF:-1 tvg-id="ASTRO OASIS" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Astro_Oasis_HD.png/revision/latest/scale-to-width-down/200?cb=20201202120819",ASTRO OASIS
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfVTNhMdGOCWgSdHkrMLDr-g
+
+#EXTINF:-1 tvg-id="ASTRO CITRA" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Citra_HD.png/revision/latest/scale-to-width-down/200?cb=20201215114828",ASTRO CITRA
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXj9ZAd-CdNseIxRw6JnzHM
+
+#EXTINF:-1 tvg-id="ASTRO AWANI" group-title="AXTRO"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest/scale-to-width-down/300?cb=20200922172412",ASTRO AWANI
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfY6_aWSaxyavHSR5cz1Z2IQ
+
+-------------------------------------BUDAK--------------------------------------------------------
+
+#EXTINF:-1 tvg-id="ASTRO CERIA" group-title="BUDAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Astro_Ceria_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092308",ASTRO CERIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/e6a6ab2a-f977-456c-a20b-17e236f5901e
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
+#EXTINF:0 tvg-logo="https://cdn.ksa.my.id/babytv.png" group-title="BUDAK" tvg-id="011" tvg-name="011-BABY-TV", BABY TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 
+-------------------------------------SUKAN--------------------------------------------------------
 
-----------ENGLISH CHANNEL-----------
+#EXTINF:-1 tvg-id="RTM SUKAN" group-title="SUKAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",RTM SUKAN
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
+
+#EXTINF:-1 tvg-id="ASTRO ARENA 1" group-title="SUKAN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Astro_Arena_Logo_2.jpg/revision/latest/scale-to-width-down/250?cb=20190123083011",ASTRO ARENA 1
+https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfQ7VBdtWD0jP5z-XDLImrJQ
+
+-------------------------------------MOVIE2--------------------------------------------------------
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
-#EXTINF:-1 tvg-id="412" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" tvg-name="CINEMAX" group-title="MOVIES",CINEMAX
+#EXTINF:-1 tvg-id="412" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" tvg-name="CINEMAX" group-title="MOVIE2",CINEMAX
 http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="MOVIES" tvg-id="401" tvg-name="HBO", HBO HD
+#EXTINF:0 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="MOVIE2" tvg-id="401" tvg-name="HBO", HBO HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
-#EXTINF:-1 tvg-id="414" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-name="HBO FAMILY" group-title="MOVIES",HBO FAMILY
+#EXTINF:-1 tvg-id="414" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-name="HBO FAMILY" group-title="MOVIE2",HBO FAMILY
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+
