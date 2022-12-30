@@ -1,42 +1,42 @@
 #EXTM3U
 
--------------------------------------TV Basic--------------------------------------------------------
+-------------------------------------TV BASIC--------------------------------------------------------
 
-#EXTINF:-1 tvg-id="TV1" group-title="Basic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest/scale-to-width-down/220?cb=20200525153311",TV1
+#EXTINF:-1 tvg-id="TV1" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest/scale-to-width-down/220?cb=20200525153311",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
-#EXTINF:-1 tvg-id="TV2" group-title="Basic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20220121144523",TV2
+#EXTINF:-1 tvg-id="TV2" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/TV2_Malaysia_logo_2013.svg/revision/latest/scale-to-width-down/200?cb=20220121144523",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="Basic",TV3
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_300.png" group-title="BASIC",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-id="TV6" group-title="Basic" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
+#EXTINF:-1 tvg-id="TV6" group-title="BASIC" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfdL2wJqXPKAzaJVyiiiuHFk
 
-#EXTINF:-1 tvg-id="TV8" group-title="Basic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",TV8
+#EXTINF:-1 tvg-id="TV8" group-title="BASIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",TV8
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfUwT8r0LyjGmSsZwsXMLpuc
 
-#EXTINF:-1 tvg-id="TV9" group-title="Basic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/TV9_2021.png/revision/latest/scale-to-width-down/200?cb=20210911031959",TV9
+#EXTINF:-1 tvg-id="TV9" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/TV9_2021.png/revision/latest/scale-to-width-down/200?cb=20210911031959",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 # https://aqfadtv.astradamy.com/stream/TV9.php
 
-#EXTINF:-1 tvg-id="OKEY" group-title="Basic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Okey_RTM.png/revision/latest?cb=20210406041615",OKEY
+#EXTINF:-1 tvg-id="OKEY" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Okey_RTM.png/revision/latest?cb=20210406041615",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
-#EXTINF:-1 tvg-id="DIDIKTV" group-title="Basic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest/scale-to-width-down/250?cb=20210529054804",DIDIKTV
+#EXTINF:-1 tvg-id="DIDIKTV" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest/scale-to-width-down/250?cb=20210529054804",DIDIKTV
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXY8buJP8MPiPYLXViW4X88
 
-#EXTINF:-1 tvg-id="AWESOME TV" group-title="Basic"
+#EXTINF:-1 tvg-id="AWESOME TV" group-title="BASIC"
 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfRNscykwJgjsiSiBHUjhYwo
 
-#EXTINF:-1 tvg-id="AWESOME TV [B]" group-title="Basic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV [B]
+#EXTINF:-1 tvg-id="AWESOME TV [B]" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV [B]
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfW9hqQcTwGJzAGNzx2R2zgs
 
-#EXTINF:-1 tvg-id="BERNAMA" group-title="group-title="Basic"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/BernamaTV2019.png/revision/latest/scale-to-width-down/200?cb=20210923080737",BERNAMA
+#EXTINF:-1 tvg-id="BERNAMA" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/BernamaTV2019.png/revision/latest/scale-to-width-down/200?cb=20210923080737",BERNAMA
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfRoJBAUkiwaIQ5nIrMb4GC4
 
 -------------------------------------AXTRO--------------------------------------------------------
