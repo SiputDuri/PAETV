@@ -45,8 +45,8 @@ https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfW9hqQcTwGJzAGNzx2R2zgs
 #EXTINF:-1 tvg-id="BERNAMA" group-title="BERITA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/BernamaTV2019.png/revision/latest/scale-to-width-down/200?cb=20210923080737",BERNAMA
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
-#EXTINF:-1 tvg-id="ASTRO AWANI" group-title="BERITA"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest/scale-to-width-down/300?cb=20200922172412",ASTRO AWANI
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfY6_aWSaxyavHSR5cz1Z2IQ
+#EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="BERITA",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 -------------------------------------AXTRO--------------------------------------------------------
 
@@ -69,8 +69,8 @@ https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfUY3gwZFW_BwUcBNErY4jyI
 #EXTINF:-1 tvg-id="ASTRO OASIS" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Astro_Oasis_HD.png/revision/latest/scale-to-width-down/200?cb=20201202120819",ASTRO OASIS
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfVTNhMdGOCWgSdHkrMLDr-g
 
-#EXTINF:-1 tvg-id="ASTRO AWANI" group-title="AXTRO"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest/scale-to-width-down/300?cb=20200922172412",ASTRO AWANI
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfY6_aWSaxyavHSR5cz1Z2IQ
+#EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="BERITA",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #EXTINF:-1 tvg-id="ASTRO CERIA" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Astro_Ceria_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092308",ASTRO CERIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
