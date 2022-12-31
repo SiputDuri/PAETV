@@ -26,7 +26,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 https://aqfadtv.xyz/live/citra/index.mpdd
 
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA HD
+#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://aqfadtv.xyz/live/warna/index.mpd
