@@ -14,7 +14,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-id="TV6" group-title="BASIC" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",TV6
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfdL2wJqXPKAzaJVyiiiuHFk
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 
 #EXTINF:-1 tvg-id="TV8" group-title="BASIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/200px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",TV8
 https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfUwT8r0LyjGmSsZwsXMLpuc
