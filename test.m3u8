@@ -32,6 +32,6 @@ https://aqfadtv.xyz/live/citra/index.mpdd
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://51.81.208.129:35461/80203091402/213445/5075
 
-#EXTM3U
-#EXTINF:-1,French Maid To Hire 3 XXX - 720p			
-https://youtu.be/j2kQbmo8aXM
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
+
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM https://mediaprima.rastream.com/mediaprima-hotfm
