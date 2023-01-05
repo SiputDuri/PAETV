@@ -27,7 +27,10 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
 #EXTINF:-1 tvg-id="DIDIKTV" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest/scale-to-width-down/250?cb=20210529054804",DIDIKTV
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXY8buJP8MPiPYLXViW4X88
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+https://aqfadtv.xyz/live/8tv/index.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
