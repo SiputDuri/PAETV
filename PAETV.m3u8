@@ -61,7 +61,10 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_pri
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ASTRO CITRA" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Astro_Citra_HD.png/revision/latest/scale-to-width-down/200?cb=20201215114828",ASTRO CITRA
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfXj9ZAd-CdNseIxRw6JnzHM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://51.81.208.129:35461/80203091402/213445/6608
 
 #EXTINF:-1 tvg-id="Astro Warna HD" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="AXTRO",ASTRO WARNA HD
 #KODIPROP:inputstream=inputstream.adaptive
