@@ -40,12 +40,16 @@ https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Hypp_Inspirasi_HD.png" group-title="BASIC",INSPIRASI
 https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
 
-#EXTINF:-1 tvg-id="AWESOME TV" group-title="BASIC"
-tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfRNscykwJgjsiSiBHUjhYwo
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211 
+#EXTINF:-1 tvg-id="AWESOME TV" group-title="BASIC" tvg-logo="https://iili.io/1NqAMl.png",Awesome TV 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd 
 
-#EXTINF:-1 tvg-id="AWESOME TV [B]" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/AwesomeTVMY.png/revision/latest/scale-to-width-down/200?cb=20210702082939",AWESOME TV [B]
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfW9hqQcTwGJzAGNzx2R2zgs
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/ 
+#EXTINF:-1 tvg-id="AWESOME TV" group-title="BASIC" tvg-logo="https://iili.io/1NqAMl.png",Awesome TV 
+https://aqfadtv.xyz/live/awesometv/index.mpd
+
 
 -------------------------------------BERITA--------------------------------------------------------
 #EXTINF:-1 tvg-id="BERNAMA" group-title="BERITA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/BernamaTV2019.png/revision/latest/scale-to-width-down/200?cb=20210923080737",BERNAMA
