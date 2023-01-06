@@ -83,7 +83,9 @@ http://51.81.208.129:35461/80203091402/213445/6608
 http://51.81.208.129:35461/80203091402/213445/5075
 
 #EXTINF:-1 tvg-id="ASTRO OASIS" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Astro_Oasis_HD.png/revision/latest/scale-to-width-down/200?cb=20201202120819",ASTRO OASIS
-https://links.nextv.ga:443/play/1CyHxbM9mj9O3eg5xiTDfVTNhMdGOCWgSdHkrMLDr-g
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/c7d2e961-6641-4442-ac76-4a6b93a50660
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="501" tvg-name="ASTRO AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="AXTRO",ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
