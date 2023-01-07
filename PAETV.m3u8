@@ -60,9 +60,9 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 -------------------------------------AXTRO--------------------------------------------------------
 
-#EXTINF:-1 tvg-id="ASTRO RIA" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Astro_Ria_HD.png/revision/latest/scale-to-width-down/200?cb=20200929180948",ASTRO RIA
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="AXTRO",Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="ASTRO PRIMA" group-title="AXTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Astro_Prima_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092334",ASTRO PRIMA
