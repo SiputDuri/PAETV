@@ -19,3 +19,8 @@ https://linears-playback.astro.com.my/vsg/41CgcMfSm3-YjFQavzBFqmEvUlKwqg59aA42hp
 
 #EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="Malaysia: Astro On The Go" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra 2
 https://rr3---sn-npoe7ndl.c.drive.google.com/videoplayback?expire=1673204321&ei=Idq6Y7XiHNS_-LYPgvq4oAo&ip=103.186.116.61&cp=QVRMVUNfU1NQQlhPOkw2bWVJbnE1TlAwUjBRRlprRnZUaXIwMzAydG00Y2NGOWlkSjRianlhdGM&id=45d3daf0281c0c60&itag=18&source=webdrive&requiressl=yes&ttl=transient&susc=dr&driveid=1hpkBLmDmt7QbP8q9CtLHbZUb1uUnNxa7&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=5761.706&lmt=1673177125406711&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgLka_xVbPXQcEi8vAwk8gt0q6QlcHNQnMgCyxxPniWRYCICLGPIFDndbPA60LTQPm1-Dn2rfzRQD3zMoG-HxMhHg4&cpn=aZUB9zRNttQkrPZR&c=WEB_EMBEDDED_PLAYER&cver=1.20230102.00.00&redirect_counter=1&cm2rm=sn-npode7z&req_id=621365b0499636e2&cms_redirect=yes&cmsv=e&mh=gM&mm=34&mn=sn-npoe7ndl&ms=ltu&mt=1673189207&mv=u&mvi=3&pl=26&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgDMyMektm-G5Oo6CZCgMX1YZsH-vfs5fc3_H1d_AuLR0CIQCR47c1a2CxgeyG-7lHFzVN8WMgMeBy_zNW8JeHNkJVJQ%3D%3D
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402 
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRo0WHcMMaTQG7Yl295_mOv4=NLC8/dash-wv/jitp-linearwm/2402/default_ott.mpd
