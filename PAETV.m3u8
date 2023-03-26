@@ -97,8 +97,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ASTRO CERIA" group-title="BUDAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Astro_Ceria_HD.png/revision/latest/scale-to-width-down/200?cb=20201022092308",ASTRO CERIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/e6a6ab2a-f977-456c-a20b-17e236f5901e
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
+##https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
 
 #EXTINF:0 tvg-logo="https://cdn.ksa.my.id/babytv.png" group-title="BUDAK" tvg-id="011" tvg-name="011-BABY-TV", BABY TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
