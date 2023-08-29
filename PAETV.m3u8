@@ -21,8 +21,7 @@ https://aqfadtv.xyz/live/8tv/index.mpd
 
 
 #EXTINF:-1 tvg-id="TV9" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/TV9_2021.png/revision/latest/scale-to-width-down/200?cb=20210911031959",TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-# https://aqfadtv.astradamy.com/stream/TV9.php
+https://6d539d43e8634e6eb047c54aa848a6a1.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_/b024385e-99b4-499a-8e27-f8682c410918/4.m3u8
 
 #EXTINF:-1 tvg-id="OKEY" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Okey_RTM.png/revision/latest?cb=20210406041615",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
