@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
+-------------------------------------TV myFreeview--------------------------------------------------------
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
+https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="106" tvg-id="106" tvg-chno="106" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",DidikTV KPM
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",8TV
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV9
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198648103",TV Alhijrah
+https://live.mana2.my/TvAlhijrah/index.m3u8|User-Agent=Mozilla
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=198649901",Suke TV
+https://live.mana2.my/SukeTv/index.m3u8|User-Agent=Mozilla
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=200384923",Bernama
+https://live.mana2.my/Bernama/index.m3u8|User-Agent=Mozilla
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=217859245",TVS
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
+
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",Nasional FM
+https://23693.live.streamtheworld.com/NASIONAL_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",Traxx FM
+https://23733.live.streamtheworld.com/TRAXX_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg",Minnal FM
+https://23733.live.streamtheworld.com/MINNAL_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",Ai FM
+https://23693.live.streamtheworld.com/AI_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg",Radio Klasik
+https://23693.live.streamtheworld.com/RADIO_KLASIKAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.6ad70c17.jpg",Asyik FM
+https://23693.live.streamtheworld.com/ASYIK_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah.1c891dd7.jpg",Sabah FM
+https://22273.live.streamtheworld.com/SABAH_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg",Sabah VFM
+https://23733.live.streamtheworld.com/SABAH_VFMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sarawak.85bf48b9.jpg",Sarawak FM
+https://23693.live.streamtheworld.com/SARAWAK_FMAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="710" tvg-id="710" tvg-chno="710" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg",Wai FM
+https://23693.live.streamtheworld.com/WAI_FM_IBANAAC.aac
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="711" tvg-chno="711" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=229151117",Bernama Radio
+https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="721" tvg-chno="721" tvg-logo="https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01.jpg",Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="722" tvg-chno="722" tvg-logo="https://assets-mpa.kool101.audio/media/Logo/profile_photo_1000x1000-03.jpg",Kool 101
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="724" tvg-chno="723" tvg-logo="https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="724" tvg-chno="724" tvg-logo="https://assets-mpa.8fm.audio/media/Logo/profile_photo_1000x1000-05.jpg",8FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="725" tvg-chno="725" tvg-logo="https://assets.audioplus.audio/2021/12/profile_photo_1000x1000-03-300x300.jpg",Molek FM
+https://mediaprima.rastream.com/mediaprima-molekfm
+
+#EXTINF:-1 group-title="myFreeview: Radio" ch-number="726" tvg-chno="726" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=233559647",Manis FM
+https://live.mana2.my/ManisFm/index.m3u8|User-Agent=Mozilla
+
+-------------------------------------TV KIDS--------------------------------------------------------
+
+#EXTINF:-1 group-title="TV | Kids" tvg-id="ASTRO CERIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Astro_Ceria.png/200px-Astro_Ceria.png",ASTRO CERIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://lock-all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiZGpyZVF1R1IiLCJyZWZyZXNoX3Rva2VuIjoiRGlxVXJxbHp2UkZXemRlMHhkUXhDcHcxZ3duV0hieDQ0NVNpTFpseHhrdW1WcE81UHNNS2ZmRlVqSWd4TktrckRlTjJUdGxpMEhRVEEybHhJS1wvTlBUUElWZnhxQ1NId2p0NXpsOFNvUk9cL1pZSHNhZnJuMndSamQ4NWFHNkI1MldlRE9JWFZWVnNZblAxblwvTG9NT1RkaWJzTGZpYTI5OGtZWWFVZ1VOUk5YZkIxOEVtdDhpSUtpWFdcL3FEVFhMSUx6czZwZWVWRTFGamlDNFRCUGdVeStIRjBHbzk4NFwvWDArVGl0eVg0dk1oc1Yyd0RSXC95TDFoUlNDNnFiOUJtYUs1WDRlb0RGMWdjVXcwXC9RTFgzSWYwbXhZbjFIbStkT3doR001ZUF2cXZWeFg3RzZwYVo4cTBzUG8yWUJaUSs2In0=
+https://cr-7.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNEU2djllemsiLCJyZWZyZXNoX3Rva2VuIjoiblY3YVFJVU5rYVlpaytKeUR3b1F3Rll1UHJ5Q0RlOWpQWGhyXC9mRXlMT3JHeGlOWEZQaG5wa3NrdWgrR2tiSG92bXphazJrenZrRkd6QmVHVVVBZ2JEYXAxWTN0UTVwbG9CRGE0Ykw0Q3RTWnN6QXZWUFVCVVl3WExxZTZcL0N3eVZPaHdFQVZXb3NUNDgrZHB0YjIwRjFoenZqRHVaZU9ycHRiSDhOdWZZQUFvVGh2OWx5Q1VSNnZYRUo2c04rejdmdjdkVDdHSXFadGhRSU5BZWZDbE14K0J6RjFRRmtET050MDhGd3JMUEF1RytjTUxtWURBVHFZVWhpMXBqWURMVElxaWpBNFQyY0R1Y2M3UTNyMnE5b3doeSt2bjZVQ2NWXC9ySXRNa3hPRmdwOFNEaXpHZ3pCb3dpMEVzTGtDYTdyTHdNNmREOGlQbmZqeGc4cWhGeUh2K2VZVXlmTVJKTitiY3JMTmlZRlhhOEUxbVBcLzdGRUkyM0h0dVVsVENtMlRKUGdGSjlHUnlQazg3elwvY3FMUEZvZXpMdFR3MXhTdmpDNHUxREVxZ1AwPSJ9
+
+#EXTINF:-1 group-title="TV | Kids" tvg-id="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://lock-all-drm.mystream.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoid3R5WFFaY0kiLCJyZWZyZXNoX3Rva2VuIjoiXC80aWJOaVpiS2ZwRkRSUGUwNjgzREFKRlRxVzVuSUlKNDNRRDVDTzN1V01jXC9ZMTN4UHdKZHFtTndURFVFNU5lZU1KSmdaQlp3cGVaa1dqalAyMzk3VDAxZDI0Rnk0aEg1WFFNUWpqdndBYkZ1MzhmdUMwOUZ3bnZVUTVGdHpNSHlac2JuYklkcndPRFJyU3Z1Sm8wMThpUldVQU1RNGtmTk5XXC9MY3I1K1wvc1pBVVlqNE1TQWhWVmhjWFU3cXVsS2VHMk5Ta3pNQUxlVGZcLzU0THJMaUdDTXBlTTQ1aU12XC9XeHhvc3NMeHFxTjdwUVhhUTZRUkh3eXZyeENaSEdXcGJvT1wvVk1PRk9MTEtqZnpYZmRvWDAzWDAwVDBKcHJiQithbFZheVdsUDhwRE1LaTBKbUVLayt1UnpFbDBvY0Q0In0=
+https://cr-7.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiU3FENFA4Q0oiLCJyZWZyZXNoX3Rva2VuIjoicFViVHhtT3Q4MzFjWUFqbXFkc2ZDYzNrZmpoN0VSRDNnVHlGTHVSNk12NHlUNm9RZCt5blZScnB0Q1BmS0dPS2Vjb3k1VlJFdjMxa0pwNktwQUR6ajJZcGJySTFOMWhNN0VqSGk2MmdYUHlGdWFEclUxdDZPS1JJekd1TUYxSGJUaVZjUHYyQzQwaHpoaW9JTm1kRVZTYUZPaWdVQ3YzOHFhUGxzdkVCV3hzcEszakh5OFBBZUxlUGVsUHRFMGJ1ZG1XUGtUK09sTmY3dHNDY3cxeWFsR05RcDdBcGVYXC83S09wXC9CNFwvdFFYUTB2SVlkSkhlaVpTYjA4Q3MyVUF4QitWcTFuTDZneTRMNDQ5RkhlUHR0MUNTejN4NjRXZGIxdG1LWDhFd2JHMERFUGpTUFpjY2tVVFZuMjg4M25tWDVzTkNpSkFGamJ4Q3NKRFlxS3F4Vkp2UkdBMHNFTzZNY3FOazNtcFcremE1TkpVXC90eTI0RVNWTlwvZWNFc2RJU25FMkxvbEc3N1pWQStmMk1ETUdmekJBam44U0hzYjRQR1IrQjhMOVBYZVwvUT0ifQ==
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lock-all-drm.mystream.workers.dev/widevine/?key=eyJ1c2VyX3Rva2VuIjoiUkJKQXRncUQiLCJyZWZyZXNoX3Rva2VuIjoiRW9uWHV4N2E5b2ZjSjlXbUFkeFpxU09TZ3ZPYmpVaU53SmdBRkNScFFZK3UwejlERFFRaldKckxneFdYeU9VdHdnc1NiVWpFR0RyYit1cnQydmN4eE9ORXdLUUszdm1RXC9DUzZxUXVTdEF1VVV3Zlcza0hPTFp3QXlxdGlNTUhVZXlmNmQzZ2Jra0tlelBoXC9ZMnlDK2RrOEdVdk9DcXcxZUp0WWVldFZPS3IzMEdwdmppQmtFXC9PZ1IrSXRkMFpHc1I0UnNIMGpLZlBvS0lIS0xZVThFQ3pjVjJsRUFndlNCZ2ZOcW5uZk5DNmZwNGpFemU4a3N4dzA3TG5RVnRIYThFWlNFYlwvdm04MFFRSjB5QkNnVWlmc0E4UFwvU2FHUThid2RuOHlyN0FLWmE0N2FpanNpd0d0dkx5ZXRrckd6bmk4b2tmSXNhOVZncUd1RTFDcUxQdkpaUnRndytKWUZFYlBESGFGeFNQU0tESXdBNnlTSk15VnpSdDBRXC9VdWRtIn0=
+#EXTINF:-1 group-title="TV | Kids" tvg-logo="https://i.imgur.com/6FUlO67.jpg",Baby TV Asia
+https://cr-7.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiU25SMHFRTEUiLCJyZWZyZXNoX3Rva2VuIjoiTXExTHQrblhGYWUzRERJMWdyVlYrRlwvYVdNZ0I4VTU5RmpadXV4NXBGSUNtTHVlc0wwMGhXYTY2SUFicE1ndVpreWg1bHZGU3FZdThQUEUxM1dnOHZGXC9ITFBLSTh4OGJkRnZ3SHNmWUdIZkE4YkdDeUFZVkFaSEZlWmJGeXlUbXc4aXhsaWlHc3R3TmdacnFSektqT213TFJzZkR1TXFYS2lBMHdZODZOaFIxcnIrR3FrOHJGaVhlN2NlMUx0N0VcL21UY2h3eWpaODN5R3RySVJQN2Y1SU1PZXN5a1FnTFdaQVNucmFRQjFHeEJtK0RJbHk0b1A2V0FnZGsyeU1CakxmdnhNZDlzN21Pa1ZaRXlFR0VIVXVKS0luaWppQ1JNSys3Z1l0bGd2bmlxV1JFN2hLMmhvT0JOdldpVFhzcFhcL2ZSQ08wXC81SkRoOU5lRmg4WFhueU1ON2RMTzcwUVFncEM3SlQ3QVU3b0VJaHlVeXdyTFwvUjJVWWpESnhuK0JzVm1cL0NSSFFPbmZKV0NwdTZtb0VtT3c9PSJ9
+
