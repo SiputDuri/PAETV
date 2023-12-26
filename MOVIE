@@ -1,0 +1,6 @@
+#EXTM3U
+
+-------------------------------------TV BASIC--------------------------------------------------------
+
+#EXTINF:-1 tvg-id="TV1" group-title="BASIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Logo_of_TV1_%28Malaysia%29.svg/revision/latest/scale-to-width-down/220?cb=20200525153311",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
