@@ -4,3 +4,6 @@
 
 #EXTINF:-1 tvg-id="BUDAK FLAT 2023" group-title="MOVIE MALAY" tvg-logo="https://yts.do/movies/poster/budak-flat-2023.jpg",BUDAK FLAT 2023
 https://aa55.segavid.com/hls/vxzxgkyxroqfycihmsr7zwxdj4cw3l2zc3gmp6u2vc6rp7nvpecrkfckgv4a/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="WALID 2023" group-title="MOVIE MALAY" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.oDP3jF9FXry012N14g4NXgHaLG&pid=Api&P=0&h=220",WALID 2023
+https://aa55.segavid.com/hls/vxzxhtywroqfycihmsr7zxxfbocfskq3gm7jd2rlk2vvi7rf3wj5pl2fh27a/index-v1-a1.m3u8
